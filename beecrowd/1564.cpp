@@ -18,10 +18,7 @@ int main(){
       else {
         break;
       }
-    }
-    else
-      break;
-    }
+    }}
     
   
   
