@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int exec1() {
+int main() {
   int N, x, maior, menor;
   cin >> N;
   for (int i = 0; i < N; i++) {
