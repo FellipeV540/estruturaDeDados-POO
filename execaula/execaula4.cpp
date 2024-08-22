@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int man(){
+int main(){ //numero de caracteres
   char palavra[100];
 
   cin.get(palavra,100,'\n');
