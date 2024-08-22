@@ -9,7 +9,7 @@ int CaixaAlta(char c){
 }
 
 
-int mai(){
+int mai(){ // Caixa alta doq escreveu
   char palavra[100], SUPERPALAVRA[100];
 
   cin.get(palavra,100,'\n');
